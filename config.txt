@@ -1,2 +1,3 @@
+tuxisawesome
+WalterOS-Linux-Helloworld
 0.1
-https://github.com/tuxisawesome/WalterOS-Linux-Helloworld
