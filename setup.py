@@ -1,1 +1,1 @@
-print("Congrats! You have installed a package for WalterOS!")
+print("Congrats! You have installed a application for WalterOS!")
