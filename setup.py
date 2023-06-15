@@ -1,0 +1,5 @@
+print('')
+print('')
+print("You have now installed WalterOS-Linux-Helloworld. This is a test message to show you all is well.")
+print('')
+print('')
